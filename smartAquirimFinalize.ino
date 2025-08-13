@@ -1,7 +1,7 @@
 // Blynk Configuration
-#define BLYNK_TEMPLATE_ID "TMPL6aLQZDtiH"
-#define BLYNK_TEMPLATE_NAME "Smart Aquirium"
-#define BLYNK_AUTH_TOKEN "jev6yFiRj7NPTZkFUx73v_Px8OXFZfxq"
+#define BLYNK_TEMPLATE_ID "your_template_id"
+#define BLYNK_TEMPLATE_NAME "your_template_name"
+#define BLYNK_AUTH_TOKEN "your_auth_token"
 
 // Library included
 #include <WiFi.h>
